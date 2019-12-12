@@ -1,0 +1,20 @@
+{
+  "name": "@coats/weather-search",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "dependencies": {
+    "@coates/weather-search-result": "^1.0.0",
+    "@coats/weather-button": "^1.0.0",
+    "@coats/weather-context": "^1.0.0",
+    "@coats/weather-error-boundary": "^1.0.0",
+    "@coats/weather-input-field": "^1.0.0",
+    "axios": "^0.19.0"
+  },
+  "peerDependencies": {
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0"
+  },
+  "devDependencies": {
+    "@testing-library/react": "^9.3.3"
+  }
+}

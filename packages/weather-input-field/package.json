@@ -1,0 +1,12 @@
+{
+  "name": "@coats/weather-input-field",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "dependencies": {
+    "@coats/weather-context": "^1.0.0"
+  },
+  "peerDependencies": {
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0"
+  }
+}

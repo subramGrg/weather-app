@@ -1,0 +1,42 @@
+.container {
+  color: #fff;
+  width: 800px;
+}
+
+.description {
+  text-transform: capitalize;
+  font-size: 18px;
+}
+
+.temperature {
+  font-size: 96px;
+  margin: 2px 0;
+}
+
+.forecast {
+  font-size: 16px;
+  margin: 0 0 4px 0;
+  padding-bottom: 4px;
+  border-bottom: 1px solid #fff;
+  color: #fff;
+}
+
+.innerContainer {
+  color: #fff;
+  padding: 10px 10px 80px 10px;
+  background-color: rgba(0,0,0,.54);
+  margin: 24px 0;
+}
+
+.daily {
+  display: flex;
+  justify-content: space-between;
+  line-height: 30px;
+  padding: 2px 0;
+  border-bottom: 1px solid rgba(255,255,255,.12);
+}
+
+.daily p {
+  margin: 0;
+  min-width: 36px;
+}
