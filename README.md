@@ -1,4 +1,5 @@
 # Instructions to run & test application
+`Compatible only with Yarn`
 
 <i>From the root of project run</i>
 * yarn install
